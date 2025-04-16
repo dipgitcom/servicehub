@@ -8,7 +8,7 @@
 
 👉 [Watch Demo Video on YouTube](https://youtu.be/Z12sOPq-cdg?si=bDKTsoaYg9zyKIVz))
 
-[![ServiceHub Demo](https://img.youtube.com/vi/bDKTsoaYg9zyKIVz/maxresdefault.jpg)](https://youtu.be/Z12sOPq-cdg?si=bDKTsoaYg9zyKIVz))
+
 
 > 📽️ *Click the image to watch the full demo on YouTube.*
 
