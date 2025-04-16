@@ -1,12 +1,12 @@
 # 🛠️ ServiceHub – Local Service Booking Platform
 
-**ServiceHub** is a Laravel-based web platform that connects customers with local service providers (electricians, plumbers, cleaners, etc.). It was built as part of the **EDGE (Enhancing Digital Government & Economy)** initiative to demonstrate real-world, scalable application development using modern web technologies.
+**ServiceHub** is a Laravel-based web platform that connects customers with local service providers (electricians, plumbers, cleaners, etc.). It was built as part of the **EDGE (Enhancing Digital Government & Economy)** initiative to demonstrate real-world, scalable application development using modern web technologies.The system will handle booking, scheduling, and reviews. It can integrate with Google Maps for location tracking and a payment API (Google Pay) for online transactions, setting the stage for a scalable, entrepreneurial service. 
 
 ---
 
 ## 🎥 Project Demo
 
-👉 [Watch Demo Video on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+👉 [Watch Demo Video on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/Z12sOPq-cdg?si=bDKTsoaYg9zyKIVz))
 
 [![ServiceHub Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
@@ -40,11 +40,4 @@
 
 ---
 
-## 🚀 Setup Instructions
 
-Follow these steps to get the project running locally:
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/servicehub.git
-   cd servicehub
