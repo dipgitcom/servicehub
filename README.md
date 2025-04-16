@@ -6,9 +6,9 @@
 
 ## 🎥 Project Demo
 
-👉 [Watch Demo Video on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/Z12sOPq-cdg?si=bDKTsoaYg9zyKIVz))
+👉 [Watch Demo Video on YouTube](https://youtu.be/Z12sOPq-cdg?si=bDKTsoaYg9zyKIVz))
 
-[![ServiceHub Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![ServiceHub Demo](https://img.youtube.com/vi/bDKTsoaYg9zyKIVz/maxresdefault.jpg)](https://youtu.be/Z12sOPq-cdg?si=bDKTsoaYg9zyKIVz))
 
 > 📽️ *Click the image to watch the full demo on YouTube.*
 
